@@ -1,1 +1,163 @@
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>SPA GARDEN </title>
+    <link rel="stylesheet" href="css/estilos.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&display=swap" rel="stylesheet"> 
+</head>
+
+<body>
+    <header>
+        <nav>
+         <a href="#">Inicio</a>
+         <button type="button" class="btn btn-outline-dark"><a href="new.html">REGISTRARSE</a></button>
+        </nav>
+        <section class="textos-header">
+             <h1>SPA GARDEN - Relajate con nosotros</h1>
+        </section>
+        <div class="wave" style="height: 150px; overflow: hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none"
+                style="height: 100%; width: 100%;">
+                <path d="M0.00,49.98 C150.00,150.00 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z"
+                    style="stroke: none; fill: #fff;"></path>
+            </svg></div>
+    </header>
+    <main>
+        <section class="contenedor sobre-nosotros">
+            <h2 class="titulo">Servicios</h2>
+            <div class="contenedor-sobre-nosotros">
+                <img src="https://elrefugiospa.com/wp-content/uploads/2020/01/11222350_875724959130303_859272578382281501_n.jpg" alt="" class="imagen-about-us">
+                <div class="contenido-textos">
+                    <h3><span></span>Los servicios que ofrecemos son:</h3>
+                    <p>*Depilación: Utilizamos los productos y técnicas más novedosos del mercado, para eliminar el vello de la mejor forma posible</p>
+					 <p>*Faciales: Utilizamos las técnicas faciales más profundas, y asi ayudamos a eliminar todo tipo de impurezas, imperfecciones y células muertas </p>
+					  <p>*Masajes: Nuestro personal, cuenta con expertos masajistas con altos conocimientos en fisioterapia, para enfocarnos en las sonas con más estrés</p>
+					  <p>*Sauna de cajón: Contamos con cajones de Sauna, una herramienta que permite no solo relajarse, sino tambien eliminar todas las impurezas del cuerpo</p>
+                </div>
+            </div>
+        </section>
+		
+<section class="about-services">
+            <div class="contenedor">
+                <h2 class="titulo">Tiempo aproximado de cada servicio</h2>
+                <div class="servicio-cont">
+                    <div class="servicio-ind">
+                        <h3>Depilación</h3>
+                        <p>1 hora</p>
+                    </div>
+                    <div class="servicio-ind">
+                        
+                        <h3>Faciales</h3>
+                        <p> 30 minutos</p>
+                    </div>
+                    <div class="servicio-ind">
+                        
+                        <h3>Masajes</h3>
+                        <p>1 hora</p>
+                    </div>
+					 <div class="servicio-ind">
+                        
+                        <h3>Sauna de cajón</h3>
+                        <p>45 minutos</p>
+                    </div>
+                </div>
+            </div>
+<section class="about-services">
+            <div class="contenedor">
+                <h2 class="titulo">Horarios de ateción</h2>
+                <div class="servicio-cont">
+                    <div class="servicio-ind">
+                        <h3>Lunes a viernes</h3>
+                        <p>9:00 AM - 13:00 PM</p>
+						<p>14:00 PM - 18:00 PM</p>
+						<p>18:00 PM - 21:00 PM</p>
+                    </div>
+                    <div class="servicio-ind">
+                        
+                        <h3>Sábado</h3>
+                        <p> 9:00 AM - 13:00 PM</p>
+                    </div>
+                    <div class="servicio-ind">
+                        
+                        <h3>Domingo</h3>
+                        <p>NO HAY ATENCION</p>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+		  <section class="about-services">
+            <div class="contenedor">
+                <h2 class="titulo">Costo de cada servicio</h2>
+                <div class="servicio-cont">
+                    <div class="servicio-ind">
+                        <img src="https://statics-cuidateplus.marca.com/cms/styles/natural/azblob/depilacion-piernas.jpg?itok=_2Ou7tmJ" alt="">
+                        <h3>Depilación</h3>
+                        <p>Normal = 20 dólares</p>
+						<p>VIP = 25 dólares</p>
+                    </div>
+                    <div class="servicio-ind">
+                        <img src="https://endotaspa.com.au/media/wysiwyg/spa/spa-listings/Garden-City/garden_city_day_spa_facials.jpg" alt="">
+                        <h3>Faciales</h3>
+                        <p>Normal = 10 dólares </p>
+						<p>VIP = 15 dólares</p>
+                    </div>
+                    <div class="servicio-ind">
+                        <img src="https://elrefugiospa.com/wp-content/uploads/2020/02/14188233_1075799682456162_6713173665740148350_o.jpg" alt="">
+                        <h3>Masajes</h3>
+                        <p>Normal = 15 dólares</p>
+						<p>VIP = 20 dólares</p>
+                       </div>
+					 <div class="servicio-ind">
+                        <img src="https://media-cdn.tripadvisor.com/media/photo-s/04/32/2d/40/el-refugio-spa-garden.jpg" alt="">
+                        <h3>Sauna de cajón</h3>
+                        <p>Normal = 12 dólares</p>
+						<p>VIP = 15 dólares</p>
+                       </div>                 
+                </div>
+            </div>   
+            <section class="about-services">
+            <div class="contenedor">
+                <h2 class="titulo">Donde nos ubicamos</h2>
+                <div class="servicio-cont">
+               <p>
+			   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2820.393885653511!2d-78.41029095991493!3d-1.3929492755401507!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d391142ded7493%3A0xb73a9c8c908e6426!2sEl%20Refugio%20Spa%20Garden!5e0!3m2!1ses!2sec!4v1641814011144!5m2!1ses!2sec" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    </div>
+			   </p>
+                </div>	
+             </div>	
+        <section class="about-services">
+            <div class="contenedor">
+                <h2 class="titulo">Un caricia para el alma</h2>
+                <div class="servicio-cont">
+                    <div class="servicio-ind">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/WgQzy-YwkUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>					
+                    </div>
+                </div>
+            </div>
+		</section>	
+	</section>	
+</main>
+    <footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Celular</h4>
+                <p>+593 97 951 4741</p>
+            </div>
+            <div class="content-foo">
+                <h4>Email</h4>
+                <p> refugiospagarden@gmail.com</p>
+            </div>
+            <div class="content-foo">
+                <h4>Ubicaciones</h4>
+				<p>Domingo Comín</p>
+				<p>Malecom 2000</p>
+            </div>
+        </div>
+        <h2 class="titulo-final">&copy; Marca registrada</p>
+</body>
+
+</html>
